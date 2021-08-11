@@ -1,0 +1,2 @@
+rupok 2 700.0
+saleha 3 0.0
